@@ -39,3 +39,6 @@
   font-weight: bold;
   src: local('Monda Bold'), local('Monda-Bold'), url('Monda-Bold.ttf') format('truetype');
 }
+#ShowAD{
+  display: none;
+}
